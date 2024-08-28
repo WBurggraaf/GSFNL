@@ -1,0 +1,268 @@
+[
+  {
+    "startTimeStamp": "1724775442087",
+    "endTimeStamp": "1724775442187",
+    "activeTime": 1079,
+    "totalMilliseconds": 3159,
+    "energyConsumptionInJoules": 5.672136768955944
+  },
+  {
+    "startTimeStamp": "1724775442187",
+    "endTimeStamp": "1724775442287",
+    "activeTime": 1248,
+    "totalMilliseconds": 3231,
+    "energyConsumptionInJoules": 6.0770882983712875
+  },
+  {
+    "startTimeStamp": "1724775442287",
+    "endTimeStamp": "1724775442387",
+    "activeTime": 1283,
+    "totalMilliseconds": 3252,
+    "energyConsumptionInJoules": 7.4729868918543225
+  },
+  {
+    "startTimeStamp": "1724775442387",
+    "endTimeStamp": "1724775442487",
+    "activeTime": 1078,
+    "totalMilliseconds": 3125,
+    "energyConsumptionInJoules": 5.371282922568305
+  },
+  {
+    "startTimeStamp": "1724775442487",
+    "endTimeStamp": "1724775442588",
+    "activeTime": 1313,
+    "totalMilliseconds": 3313,
+    "energyConsumptionInJoules": 6.714896178696477
+  },
+  {
+    "startTimeStamp": "1724775442588",
+    "endTimeStamp": "1724775442687",
+    "activeTime": 1124,
+    "totalMilliseconds": 3325,
+    "energyConsumptionInJoules": 5.583441348991162
+  },
+  {
+    "startTimeStamp": "1724775442687",
+    "endTimeStamp": "1724775442797",
+    "activeTime": 1298,
+    "totalMilliseconds": 3315,
+    "energyConsumptionInJoules": 6.97114462190292
+  },
+  {
+    "startTimeStamp": "1724775442797",
+    "endTimeStamp": "1724775442897",
+    "activeTime": 1187,
+    "totalMilliseconds": 3142,
+    "energyConsumptionInJoules": 6.2652153038515905
+  },
+  {
+    "startTimeStamp": "1724775442897",
+    "endTimeStamp": "1724775443008",
+    "activeTime": 1331,
+    "totalMilliseconds": 3550,
+    "energyConsumptionInJoules": 7.05822524934544
+  },
+  {
+    "startTimeStamp": "1724775443008",
+    "endTimeStamp": "1724775443118",
+    "activeTime": 1312,
+    "totalMilliseconds": 3450,
+    "energyConsumptionInJoules": 7.103948166130507
+  },
+  {
+    "startTimeStamp": "1724775443118",
+    "endTimeStamp": "1724775443218",
+    "activeTime": 1249,
+    "totalMilliseconds": 3313,
+    "energyConsumptionInJoules": 6.400215216013344
+  },
+  {
+    "startTimeStamp": "1724775443218",
+    "endTimeStamp": "1724775443318",
+    "activeTime": 1171,
+    "totalMilliseconds": 3298,
+    "energyConsumptionInJoules": 6.198383844184124
+  },
+  {
+    "startTimeStamp": "1724775443318",
+    "endTimeStamp": "1724775443418",
+    "activeTime": 1204,
+    "totalMilliseconds": 3079,
+    "energyConsumptionInJoules": 6.403604736901256
+  },
+  {
+    "startTimeStamp": "1724775443418",
+    "endTimeStamp": "1724775443528",
+    "activeTime": 1358,
+    "totalMilliseconds": 3527,
+    "energyConsumptionInJoules": 7.761170416422287
+  },
+  {
+    "startTimeStamp": "1724775443528",
+    "endTimeStamp": "1724775443628",
+    "activeTime": 1173,
+    "totalMilliseconds": 3359,
+    "energyConsumptionInJoules": 6.162891122605222
+  },
+  {
+    "startTimeStamp": "1724775443628",
+    "endTimeStamp": "1724775443728",
+    "activeTime": 1202,
+    "totalMilliseconds": 3173,
+    "energyConsumptionInJoules": 6.547001505865774
+  },
+  {
+    "startTimeStamp": "1724775443728",
+    "endTimeStamp": "1724775443828",
+    "activeTime": 1205,
+    "totalMilliseconds": 3130,
+    "energyConsumptionInJoules": 7.309656568726781
+  },
+  {
+    "startTimeStamp": "1724775443828",
+    "endTimeStamp": "1724775443928",
+    "activeTime": 1138,
+    "totalMilliseconds": 3151,
+    "energyConsumptionInJoules": 7.024999999999999
+  },
+  {
+    "startTimeStamp": "1724775443928",
+    "endTimeStamp": "1724775444028",
+    "activeTime": 1269,
+    "totalMilliseconds": 3175,
+    "energyConsumptionInJoules": 8.051090476190476
+  },
+  {
+    "startTimeStamp": "1724775444028",
+    "endTimeStamp": "1724775444128",
+    "activeTime": 1204,
+    "totalMilliseconds": 3453,
+    "energyConsumptionInJoules": 7.4986727272727265
+  },
+  {
+    "startTimeStamp": "1724775444128",
+    "endTimeStamp": "1724775444228",
+    "activeTime": 1232,
+    "totalMilliseconds": 2997,
+    "energyConsumptionInJoules": 7.608353763440859
+  },
+  {
+    "startTimeStamp": "1724775444228",
+    "endTimeStamp": "1724775444328",
+    "activeTime": 1188,
+    "totalMilliseconds": 3239,
+    "energyConsumptionInJoules": 7.721999999999999
+  },
+  {
+    "startTimeStamp": "1724775444328",
+    "endTimeStamp": "1724775444428",
+    "activeTime": 1124,
+    "totalMilliseconds": 3199,
+    "energyConsumptionInJoules": 6.5458259818150895
+  },
+  {
+    "startTimeStamp": "1724775444428",
+    "endTimeStamp": "1724775444528",
+    "activeTime": 1205,
+    "totalMilliseconds": 3019,
+    "energyConsumptionInJoules": 7.306631804281344
+  },
+  {
+    "startTimeStamp": "1724775444528",
+    "endTimeStamp": "1724775444628",
+    "activeTime": 1218,
+    "totalMilliseconds": 3324,
+    "energyConsumptionInJoules": 7.398004833777251
+  },
+  {
+    "startTimeStamp": "1724775444628",
+    "endTimeStamp": "1724775444728",
+    "activeTime": 1280,
+    "totalMilliseconds": 3374,
+    "energyConsumptionInJoules": 7.160164897719425
+  },
+  {
+    "startTimeStamp": "1724775444728",
+    "endTimeStamp": "1724775444828",
+    "activeTime": 1127,
+    "totalMilliseconds": 3130,
+    "energyConsumptionInJoules": 6.6767513774896745
+  },
+  {
+    "startTimeStamp": "1724775444828",
+    "endTimeStamp": "1724775444928",
+    "activeTime": 1155,
+    "totalMilliseconds": 3187,
+    "energyConsumptionInJoules": 6.9687758930314265
+  },
+  {
+    "startTimeStamp": "1724775444928",
+    "endTimeStamp": "1724775445028",
+    "activeTime": 1218,
+    "totalMilliseconds": 3028,
+    "energyConsumptionInJoules": 7.283613618322597
+  },
+  {
+    "startTimeStamp": "1724775445028",
+    "endTimeStamp": "1724775445128",
+    "activeTime": 1017,
+    "totalMilliseconds": 3235,
+    "energyConsumptionInJoules": 5.179716295748815
+  },
+  {
+    "startTimeStamp": "1724775445128",
+    "endTimeStamp": "1724775445228",
+    "activeTime": 1046,
+    "totalMilliseconds": 3232,
+    "energyConsumptionInJoules": 4.3013144964186
+  },
+  {
+    "startTimeStamp": "1724775445228",
+    "endTimeStamp": "1724775445328",
+    "activeTime": 936,
+    "totalMilliseconds": 3251,
+    "energyConsumptionInJoules": 3.687134601406351
+  },
+  {
+    "startTimeStamp": "1724775445328",
+    "endTimeStamp": "1724775445428",
+    "activeTime": 968,
+    "totalMilliseconds": 3201,
+    "energyConsumptionInJoules": 4.4201905803775
+  },
+  {
+    "startTimeStamp": "1724775445428",
+    "endTimeStamp": "1724775445528",
+    "activeTime": 953,
+    "totalMilliseconds": 3186,
+    "energyConsumptionInJoules": 2.637761766135717
+  },
+  {
+    "startTimeStamp": "1724775445528",
+    "endTimeStamp": "1724775445629",
+    "activeTime": 812,
+    "totalMilliseconds": 3315,
+    "energyConsumptionInJoules": 3.0979713456734594
+  },
+  {
+    "startTimeStamp": "1724775445629",
+    "endTimeStamp": "1724775445730",
+    "activeTime": 1002,
+    "totalMilliseconds": 3267,
+    "energyConsumptionInJoules": 4.596766742393962
+  },
+  {
+    "startTimeStamp": "1724775445730",
+    "endTimeStamp": "1724775445832",
+    "activeTime": 799,
+    "totalMilliseconds": 3019,
+    "energyConsumptionInJoules": 4.283360520094562
+  },
+  {
+    "startTimeStamp": "1724775445832",
+    "endTimeStamp": "1724775445932",
+    "activeTime": 949,
+    "totalMilliseconds": 3339,
+    "energyConsumptionInJoules": 2.688555557009234
+  }
+]

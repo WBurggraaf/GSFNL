@@ -1,0 +1,15 @@
+1e6
+node index.js 1 1
+1e8
+node index.js 1 1
+1e10
+[Open Task Manager]
+node index.js 1 1
+node index.js 32 1
+node index.js 12 1
+
+node index.js 32 2
+node index.js 12 2
+
+1e4
+node index.js 32 4
